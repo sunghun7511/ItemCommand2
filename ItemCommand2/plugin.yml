@@ -1,0 +1,7 @@
+name: ItemCommand
+main: com.SHGroup.ItemCommand.Main
+author: SHGroup
+version: 1.0
+commands:
+  ic:
+    description: ItemCommand
